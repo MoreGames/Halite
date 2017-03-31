@@ -1,7 +1,7 @@
 # Halite
 Artificial intelligence programming challenge (https://halite.io/)
 
-Finished in Diamond League (Top 24).
+Finished 13th from 1500+ (Diamond League - Top 24).
 
 Some bot features:
 - Dijkstra search for every tile (costs = production), to get minimum production lost paths to all adjacent tiles, time consuming for large maps
